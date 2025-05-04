@@ -2,3 +2,35 @@
     margin-left: 7%;
     margin-right: 7%;
 }
+
+.container {
+    background-color: black;
+}
+
+.quienes_somos {
+    color: azure;
+    background-color: black;
+}
+
+.row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    background-color: black;
+}
+
+.QSL {
+    background-color: aqua;
+}
+
+.card-body {
+    background-color: black;
+    font-size: large;
+}
+
+.fa-plane {
+    color: azure;
+}
+.fa-mountain {
+    color: azure;
+}
