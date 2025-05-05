@@ -28,6 +28,10 @@
     font-size: large;
 }
 
+.card {
+    background-color: black;
+}
+
 .fa-plane {
     color: azure;
 }
