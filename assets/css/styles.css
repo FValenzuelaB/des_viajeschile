@@ -34,3 +34,13 @@
 .fa-mountain {
     color: azure;
 }
+
+.ca_des {
+    background-color: aqua;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
